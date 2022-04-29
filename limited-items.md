@@ -1,19 +1,97 @@
 # Limited Items
 
-|Slot|Area|Item|Where|
-|---|---|---|---|
-|Arms|Abyss|some sleeves|an onyx coffin|
-|Arms|Galaxy|the Titanic Arm plates of Hercules|the mighty Hercules|
-|Arms|The Duergar Keep|the steam powered fist|Hirod|
-|Arms|Losengard|some ebony armguards|the Ebony guard|
-|Arms|Belarion (Battlegrounds)|some black eog greaves|Nekron|
-|Arms|Belarion (Battlegrounds)|some black eog greaves|the fire dragon|
-|Arms|Belarion (Battlegrounds)|some white laen greaves|Hobbes the Paladin|
-|Arms|Aarakocran City|vambraces of chitinous plate|Arachnos|
+## Armor
 
-*arms vambraces of chitinous plate                                     Arachons                Arachons
+### Arms
 
-axe  a glinting white axe named "Wintersinger"                 Cavern of heroes     Scarlet Winter
+|Area|Item|Where|
+|---|---|---|
+|Abyss|some sleeves|an onyx coffin|
+|Galaxy|the Titanic Arm plates of Hercules|the mighty Hercules|
+|The Duergar Keep|the steam powered fist|Hirod|
+|Losengard|some ebony armguards|the Ebony guard|
+|Belarion (Battlegrounds)|some black eog greaves|Nekron|
+|Belarion (Battlegrounds)|some black eog greaves|the fire dragon|
+|Belarion (Battlegrounds)|some white laen greaves|Hobbes the Paladin|
+|Aarakocran City|vambraces of chitinous plate|Arachnos|
+
+### Belts
+
+### About Body
+
+### Boots
+
+### Gloves
+
+### Held
+
+### Helmets
+
+### Leggings
+
+### Lights
+
+### Neck
+
+### Rings
+
+### Sheaths
+
+### Shields
+
+### Tattoos
+
+### Torso
+
+### Wrists
+
+## Special
+
+### Instruments
+
+### Portal
+
+### Stave
+
+### Parts
+
+## Weapons
+
+
+### Axes
+
+|Area|Item|Where|
+|---|---|---|
+|Cavern of Heroes|a glinting white axe named "Wintersinger"|Scarlet Winter|
+|The Rivertemple|Mecky's axe|Mecky the Axe|
+
+### Bows
+
+### Daggers
+
+### Exotics
+
+### Flails
+
+### Maces
+
+### Spears
+
+### Staffs
+
+### Polearms
+
+### Swords
+
+### Whips
+
+## Clan Master Item
+
+
+
+
+
+
 *axe  Meckys axe                                                                     Rivertemple              Mecky
 *axe  a red admantite trollslayer axe                                      Ancient woods       Worengard 
 *axe  samuels axe                                                                      Atlantis                    Samuel the woodcutter
